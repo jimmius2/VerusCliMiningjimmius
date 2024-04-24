@@ -5,10 +5,10 @@
         	"url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 150
 	}],
-	"user": "NHbZgvRLkX71yQHdXEDRbYhU7jxtrrYvK1Mw.Lenovo_TAB_2",
+	"user": "NHbZgvRLkX71yQHdXEDRbYhU7jxtrrYvK1Mw.huawei_y7_2019",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 4,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",

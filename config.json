@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 150
 	}],
-	"user": "NHbZgvRLkX71yQHdXEDRbYhU7jxtrrYvK1Mw.RedmiNonte9",
+	"user": "NHbZgvRLkX71yQHdXEDRbYhU7jxtrrYvK1Mw.WP5000",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
